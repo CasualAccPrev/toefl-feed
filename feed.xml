@@ -8,7 +8,17 @@
     <itunes:author>TOEFL Trainer</itunes:author>
     <itunes:summary>All-day TOEFL-style sentences and vocabulary for passive listening and shadowing.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 08 Jun 2026 14:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:12:13 +0000</lastBuildDate>
+    <item>
+      <title>Ep 19 · 60 sentences + 34 words</title>
+      <description>60 TOEFL sentences and 34 vocabulary items for shadowing.</description>
+      <itunes:summary>60 TOEFL sentences and 34 vocabulary items for shadowing.</itunes:summary>
+      <guid isPermaLink="false">1d27064d13864055ae1fc1af685c675c</guid>
+      <pubDate>Mon, 08 Jun 2026 16:12:13 +0000</pubDate>
+      <enclosure url="https://casualaccprev.github.io/toefl-feed/episodes/ep-0019-20260609-011210.mp3" length="10252653" type="audio/mpeg"/>
+      <itunes:duration>21:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep 18 · 60 sentences + 34 words</title>
       <description>60 TOEFL sentences and 34 vocabulary items for shadowing.</description>
