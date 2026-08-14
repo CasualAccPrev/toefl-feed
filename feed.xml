@@ -8,7 +8,17 @@
     <itunes:author>TOEFL Trainer</itunes:author>
     <itunes:summary>All-day TOEFL-style sentences and vocabulary for passive listening and shadowing.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 14 Aug 2026 04:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Ep 340 · 60 sentences + 34 words</title>
+      <description>60 TOEFL sentences and 34 vocabulary items for shadowing.</description>
+      <itunes:summary>60 TOEFL sentences and 34 vocabulary items for shadowing.</itunes:summary>
+      <guid isPermaLink="false">de654abd63204b6580ff5efd2351a75d</guid>
+      <pubDate>Fri, 14 Aug 2026 05:14:59 +0000</pubDate>
+      <enclosure url="https://casualaccprev.github.io/toefl-feed/episodes/ep-0340-20260814-141456.mp3" length="12112365" type="audio/mpeg"/>
+      <itunes:duration>25:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep 339 · 60 sentences + 34 words</title>
       <description>60 TOEFL sentences and 34 vocabulary items for shadowing.</description>
@@ -597,16 +607,6 @@
       <pubDate>Tue, 28 Jul 2026 09:49:12 +0000</pubDate>
       <enclosure url="https://casualaccprev.github.io/toefl-feed/episodes/ep-0281-20260728-184908.mp3" length="11797869" type="audio/mpeg"/>
       <itunes:duration>24:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Ep 280 · 60 sentences + 34 words</title>
-      <description>60 TOEFL sentences and 34 vocabulary items for shadowing.</description>
-      <itunes:summary>60 TOEFL sentences and 34 vocabulary items for shadowing.</itunes:summary>
-      <guid isPermaLink="false">fd03dc69dbfb49f9b162c3cddda04631</guid>
-      <pubDate>Tue, 28 Jul 2026 05:57:54 +0000</pubDate>
-      <enclosure url="https://casualaccprev.github.io/toefl-feed/episodes/ep-0280-20260728-145750.mp3" length="12259053" type="audio/mpeg"/>
-      <itunes:duration>25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
